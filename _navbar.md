@@ -1,6 +1,7 @@
 - 我的
   - [**JavaScript**](https://fan-yue.github.io/DocsBCYjs_git/)
   - [**软件汇总**](https://fan-yue.github.io/SoftwareGood_git/)
+  - [**Vue学习文档**](https://fan-yue.github.io/VueDocument_git/)
   
 - 开发必备
   - [**在线ASCII码表**](http://www.fly63.com/tool/ascii/)
